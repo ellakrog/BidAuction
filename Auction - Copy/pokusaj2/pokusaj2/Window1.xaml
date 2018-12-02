@@ -1,0 +1,24 @@
+﻿<Window x:Class="pokusaj2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pokusaj2"
+        mc:Ignorable="d"
+        Title="Admin" Height="420.6" Width="612" Background="#FF7ACA71">
+    <Grid Margin="0,0,3.6,0.2">
+        <DataGrid AutoGenerateColumns="False" EnableRowVirtualization="True" Height="259" HorizontalAlignment="Left" ItemsSource="{Binding}" Name="aukcija_bazeDataGrid1" RowDetailsVisibilityMode="VisibleWhenSelected" VerticalAlignment="Top" Width="429" SelectionChanged="aukcija_bazeDataGrid1_SelectionChanged" Margin="85,54,0,0" Background="#FFFCF2F1" >
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="aukcijaIdColumn" Binding="{Binding Path=IdProizvoda}" Header="Id Proizvoda" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="artikalNameColumn" Binding="{Binding Path=Naziv}" Header="Naziv" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="pocetnacijenaColumn" Binding="{Binding Path=PocetnaCijena}" Header="Pocetna Cijena" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="trenutnacijenaColumn" Binding="{Binding Path=ZadnjaCijena}" Header="Zadnja Cijena" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="zadnjaponudaColumn" Binding="{Binding Path=ZadnjaPonuda}" Header="Zadnja Ponuda" Width="SizeToHeader" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="button" Content="Novi proizvod" HorizontalAlignment="Left" Margin="38,330,0,0" VerticalAlignment="Top" Width="126" Height="33" Click="button_Click" FontSize="14" Background="#FFFFF9F8"/>
+        <Button x:Name="button1" Content="Obrisi" HorizontalAlignment="Left" Margin="468,329,0,0" VerticalAlignment="Top" Width="98" Height="33" Click="button1_Click" FontSize="16" Background="#FFFCF4F3"/>
+        <Label x:Name="label" Content="Naziv" HorizontalAlignment="Left" Margin="275,332,0,0" VerticalAlignment="Top" Height="31" Width="63" FontSize="14" FontFamily="Verdana"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="33" Margin="343,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

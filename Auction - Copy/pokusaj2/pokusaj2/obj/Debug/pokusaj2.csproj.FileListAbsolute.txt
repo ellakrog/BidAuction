@@ -1,0 +1,43 @@
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\bin\Debug\pokusaj2.exe.config
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2.csprojResolveAssemblyReference.cache
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\MainWindow.baml
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\MainWindow.g.cs
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\App.g.cs
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2_MarkupCompile.cache
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2.g.resources
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2.Properties.Resources.resources
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2.csproj.GenerateResource.Cache
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\bin\Debug\pokusaj2.exe
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\bin\Debug\pokusaj2.pdb
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2.exe
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2.pdb
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\Window1.g.cs
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\Window2.g.cs
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\pokusaj2_MarkupCompile.lref
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\Window1.baml
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\Window2.baml
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\Window3.g.cs
+C:\Ljubica\c# zadaci\pokusaj2\pokusaj2\obj\Debug\Window3.baml
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\bin\Debug\pokusaj2.exe.config
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\bin\Debug\pokusaj2.exe
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\bin\Debug\pokusaj2.pdb
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.csprojResolveAssemblyReference.cache
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\MainWindow.baml
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\MainWindow.g.cs
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\Window1.g.cs
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\Window2.g.cs
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\Window3.g.cs
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\App.g.cs
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2_MarkupCompile.cache
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2_MarkupCompile.lref
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\Window1.baml
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\Window2.baml
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\Window3.baml
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.g.resources
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.Properties.Resources.resources
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.csproj.GenerateResource.Cache
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.exe
+C:\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.pdb
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\bin\Debug\pokusaj2.exe.config
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.exe
+D:\kroge\posao radovi\posao-svi podaci\laptop data\AukcijaWPF\pokusaj2\pokusaj2\pokusaj2\obj\Debug\pokusaj2.pdb

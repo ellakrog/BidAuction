@@ -1,0 +1,28 @@
+﻿<Window x:Class="pokusaj2.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pokusaj2"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded_1"
+        Title="Korisnik" Height="437.868" Width="647.841" Background="#FF79D481">
+
+    <Grid DataContext="{Binding}" Margin="0,0,-6.8,0">
+        <DataGrid AutoGenerateColumns="False" EnableRowVirtualization="True" Height="264" HorizontalAlignment="Left" ItemsSource="{Binding}" Name="aukcija_bazeDataGrid1" RowDetailsVisibilityMode="VisibleWhenSelected" VerticalAlignment="Top" Width="386" SelectionChanged="aukcija_bazeDataGrid1_SelectionChanged" Margin="31,82,0,0" Background="#FFFCF1F1">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="aukcijaIdColumn" Binding="{Binding Path=IdProizvoda}" Header="Id Proizvoda" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="artikalNameColumn" Binding="{Binding Path=Naziv}" Header="Naziv" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="pocetnacijenaColumn" Binding="{Binding Path=PocetnaCijena}" Header="Pocetna Cijena" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="trenutnacijenaColumn" Binding="{Binding Path=ZadnjaCijena}" Header="Zadnja Cijena" Width="SizeToHeader" />
+                <DataGridTextColumn x:Name="zadnjaponudaColumn" Binding="{Binding Path=ZadnjaPonuda}" Header="Zadnja Ponuda" Width="SizeToHeader" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="button" Content="Bid" HorizontalAlignment="Left" Margin="452,92,0,0" VerticalAlignment="Top" Width="71" Click="button_Click" Background="#FFFDF7F7"/>
+        <Button x:Name="button1" Content="Bid" HorizontalAlignment="Left" Margin="452,116,0,0" VerticalAlignment="Top" Width="71" Click="button1_Click" Background="#FFFFF8F8"/>
+        <Button x:Name="button2" Content="Bid" HorizontalAlignment="Left" Margin="452,140,0,0" VerticalAlignment="Top" Width="71" Click="button2_Click" Background="#FFFAF9F9"/>
+        <Button x:Name="button3" Content="Bid" HorizontalAlignment="Left" Margin="452,164,0,0" VerticalAlignment="Top" Width="71" Click="button3_Click" Background="#FFFCF8F8"/>
+        <Button x:Name="button4" Content="Bid" HorizontalAlignment="Left" Margin="452,188,0,0" VerticalAlignment="Top" Width="71" Click="button4_Click" Background="#FFFDFAFA"/>
+        <Button x:Name="button5" Content="Bid" HorizontalAlignment="Left" Margin="452,212,0,0" VerticalAlignment="Top" Width="71" Click="button5_Click" Background="#FFFAF4F4"/>
+    </Grid>
+</Window>
